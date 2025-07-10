@@ -1,6 +1,6 @@
 name: "Setup MyCLI"
 description: "Installs MyCLI and adds it to the PATH"
-author: "Your Name"
+author: "deandownunder"
 
 inputs:
   version:
